@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{08567209-4B3F-417C-A952-12AD96C066EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFinderApp", "src\WordFinderApp\WordFinderApp.csproj", "{B0FC3258-AABC-41DD-8CD8-EE8F806AC88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0FC3258-AABC-41DD-8CD8-EE8F806AC88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FC3258-AABC-41DD-8CD8-EE8F806AC88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FC3258-AABC-41DD-8CD8-EE8F806AC88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FC3258-AABC-41DD-8CD8-EE8F806AC88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0FC3258-AABC-41DD-8CD8-EE8F806AC88D} = {08567209-4B3F-417C-A952-12AD96C066EE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6F68EC-080C-49A7-88A8-ABD8D7EC68AD}
+	EndGlobalSection
+EndGlobal
